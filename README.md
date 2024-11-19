@@ -1,2 +1,2 @@
-# Ludo - 3D browser game
+# Ludo - 3D game
 
